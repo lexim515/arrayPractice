@@ -1,2 +1,1 @@
-# Extra practice with JavaScript using arrays 
-# Solutions to problems
+# Extra practice with JavaScript using arrays/ solutions to problems
